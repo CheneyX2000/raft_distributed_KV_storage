@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.github.cheneyx2000.raft</groupId>
         <artifactId>raft-java-parent</artifactId>
-        <version>1.9.0</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>distribute-core</artifactId>
